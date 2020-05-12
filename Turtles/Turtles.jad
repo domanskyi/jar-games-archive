@@ -1,0 +1,9 @@
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+lw: jreopgjwpfmwfk4mmerg3
+MIDlet-1: Turtles, /turtles_logo.png, b
+MIDlet-Jar-Size: 42849
+MIDlet-Jar-URL: http://home.zonnet.nl/doren10/games/Turtles.jar
+MIDlet-Name: Turtles
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Macrospace Ltd

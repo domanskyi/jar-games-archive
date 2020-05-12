@@ -1,0 +1,11 @@
+MIDlet-Jar-Size: 33835
+MIDlet-Jar-URL: XBoard.jar
+Manifest-Version: 1.0
+MIDlet-Version: 1.0
+Created-By: 1.4.0_01 (Sun Microsystems Inc.)
+MIDlet-1: XBoard, XBoard.png, XBoard
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Name: XBoard
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Vendor: phonegames4u.com
+

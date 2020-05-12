@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Name: Reveal Me
+MIDlet-1: Reveal Me, , reveal.RevealMe
+MIDlet-Version: 1.02
+MIDlet-Vendor: AIM Productions
